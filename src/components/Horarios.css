@@ -1,0 +1,16 @@
+.horarios-section {
+  padding: 4rem 1rem;
+  text-align: center;
+  background-color: #fff;
+  color: #333;
+}
+
+.horarios-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.horarios-content p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+} 
